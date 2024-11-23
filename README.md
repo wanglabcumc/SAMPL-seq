@@ -1,0 +1,1 @@
+This is a repository of accompanying scripts for the manuscript "SAMPL-seq reveals micron-scale spatial hubs in the human gut microbiome". Under barcode processing, you will find the scripts necessary to process SAMPL-seq data as described in the manuscript. 
